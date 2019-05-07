@@ -1,4 +1,4 @@
-# Python
+# Python lst del and insert
 guest = ['kong ling hao','feng xing jing','wang yu kang']
 invate = 'welcome to join in my party,' + guest[0].title() + '、' + guest[1].title() + '、' + guest[2].title() + '!'
 print (invate.title())
