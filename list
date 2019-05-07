@@ -1,2 +1,9 @@
 # Python
-learn python
+guest = ['kong ling hao','feng xing jing','wang yu kang']
+invate = 'welcome to join in my party,' + guest[0].title() + '、' + guest[1].title() + '、' + guest[2].title() + '!'
+print (invate.title())
+change_guest = guest.pop[1]
+reason = 'i\'m sorry'+ change_guest + 'missing our party due to his airplane canceled!'
+print (reson.title())
+guest.insert（1,'dong fengxing'）
+print(invate.title())
